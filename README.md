@@ -35,10 +35,20 @@ Aplikasi ini telah memenuhi **100 Poin** kriteria tugas:
 - **Placehold.co** (Dynamic Image Generation)
 
 ## 🚀 Cara Instalasi & Run
+1. Inisialisasi git  
+> git init
 
-1. **Clone Repository**
-   ```bash
-   git clone [
+2. Tambahkan semua file (Git akan otomatis mengabaikan folder build)  
+> git add .
+
+3. Catat perubahan  
+> git commit -m "First commit: Legendary Armory App"
+
+4. Hubungkan ke repo GitHub kamu (Ganti URL dengan link repo kamu)  
+> git remote add origin [(https://github.com/afat45/Tugas-1-Pemogramman-Aplikasi-Bergerak.git](https://github.com/afat45/Tugas-1-Pemogramman-Aplikasi-Bergerak.git)
+
+5. Upload/Push  
+> git push -u origin main
 ---
 
 ### 2. Penjelasan Lengkap Kodingan (Alur Logika)
